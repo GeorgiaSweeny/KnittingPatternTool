@@ -18,4 +18,5 @@ Tool to create custom grid and designs for usable knitting patterns
  
 ## Additional Features
 - Colour wheel/RGB slider/Hex Value to select more specific colours
-- Support for different different stiche types (stretch, seperate app? may not be able to be merged) 
+- Support to produce entire pattern for simple product (hat, scarf, blanket, maybe a sock, jumper later on ect.)
+- Support for different different stitch types (stretch, seperate app? may not be able to be merged) 
