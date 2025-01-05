@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.alert-info {
+    background-color: lightblue;
+    color: white;
+    max-width: fit-content;
+    font-size: 10px;
+    margin-left: 10px;
+    padding-inline: 10px;
+    padding-block: 5px;
+
+}
+
+label {
+    font-weight: bold;
+}
+
+.button {
+    background-color: lightseagreen;
+    border-color: lightseagreen;
+}
+
+.button:hover {
+    background-color: lightseagreen;
+    border-color: lightseagreen;
+    color: whitesmoke;
+}
+
+#rows {
+    margin-inline-end: 20px;
+}
