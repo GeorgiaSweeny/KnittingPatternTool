@@ -1,8 +1,13 @@
 # KnittingPatternTool
-Web app to aid in incorperating motifs or creating more complex stitch patterns for knitted garments.
+Do you love knitting but hate drawing out patterns by hand, spending hours creating spreadsheets or can never find the right motifs/designs for your projects?
+The Knitting Pattern Tool App takes out all the hassle, letting you focus on expressing your creativity!
+
+Wether you want to simply create a motif, incorperate it into an existing project or need to plan out complex stitch patterns, this web app can help you do that.
+
+See information below for current release...
 
 # APLHA STAGE (Current)
-## MVP Minimal Viable Product
+## MVP Minimal Viable Product [in development]
 Motif Pattern only
 - Create grid based on user input (columns and rows)
 - Cells of grid must be square
@@ -22,7 +27,7 @@ Motif Pattern only
 
 # STITCH SUPPORT FUNCTIONALITY
 ## Basic Features
-- Support for different different stitch types (stitch pattern mode, stitches only, no colours)
+- Support for different stitch types (stitch pattern mode, stitches only, no colours)
   - Allow user to interact with grid, changing stitch value in each cell (will require stich type key)
 
 ## Desireable Feautures
